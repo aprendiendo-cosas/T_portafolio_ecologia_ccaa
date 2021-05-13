@@ -3,62 +3,60 @@
 > + **_Versión_**: 0.1.
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
+> + ***Duración estimada***: 1 hora.
 
-![portada](https://github.com/aprendiendo-cosas/A_lobo_cascada_trofica_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/imagenes/portada.png?token=ACTPWF7PO2EFZAWVRNJ2GFTAU26Z6)
+
+
 
 ## Objetivos 
 
-Esta tarea tiene los siguientes objetivos competenciales y operacionales:
+Esta tarea tiene un único objetivo: Que los estudiantes reflexionen sobre cómo ha sido su proceso de aprendizaje de la ecología en este curso. 
 
-+ 
+La toma de conciencia sobre este asunto es determinante para fijar los conocimientos adquiridos, así como para evaluar los métodos de enseñanza-aprendizaje realizados. 
+
+Para satisfacer este objetivo usaremos una herramienta denominada *portafolio*. El portafolio es una colección organizada de trabajos y documentos previamente seleccionados por el alumno y que reflejan su proceso y su rendimiento en relación con unos objetivos de aprendizaje y unos criterios de evaluación preestablecidos. Se trata de presentar dicho material asociado a las competencias cuya adquisición han fomentado. 
+
+De manera más específica, un portafolio permite:
+
++ Evaluar tanto el proceso de aprendizaje como el producto del mismo.
++ Motivar al alumnado a reflexionar sobre su propio aprendizaje participando en el proceso de evaluación.
++ Desarrollar destrezas colaborativas entre el alumnado.
++ Promover la capacidad de resolución de problemas.
++ Proveer a los profesores de información para ajustar los contenidos del curso a las necesidades de los estudiantes.
+
+Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/main/biblio) carpeta. 
 
 
-
-Evaluar tanto el proceso como el producto
-2. Motivar al alumnado a reflexionar sobre su propio aprendizaje participando en el proceso de evaluación
-3. Desarrollar destrezas colaborativas entre el alumnado
-4. Promover la capacidad de resolución de problemas
-5. Estructurar las tareas de aprendizaje (establecer lo que es obligatorio y lo que es optativo)
-6. 
-6. Proveer a los profesores de información para ajustar los contenidos del curso a las necesidades de los estudiantes.
 
 ## Instrucciones
 
-El portafolio es una colección organizada de trabajos y documentos previamente seleccionados por el alumno y que reflejan su proceso y su rendimiento en relación con unos objetivos de aprendizaje y unos criterios de evaluación preestablecidos (Barberà, 2005).
+Para completar satisfactoriamente esta tarea sin que suponga mucho tiempo, he preparado una especie de plantilla para que todos los portafolios tengan la misma estructura. Cada estudiante debe de rellenar dicha plantilla que está implementada en un formulario de google docs. 
 
-+ Un dosier, carpeta o portfolio de aprendizaje es una colección de materiales seleccionados con la intención de explicar el aprendizaje realizado, reflexionar sobre este material y evaluarlo.
-+ No se trata de exigir al estudiante que haga una selección de su mejor o mejores producciones para mostrárselas al docente. Se trata de andamiar el proceso para que cada estudiante pueda tomar conciencia del modo en que ha transcurrido su aprendizaje: qué aprende, cómo aprende, con qué o con quién
-+ En el portfolio de aprendizaje se debe incluir una portada e índice, un comentario inicial sobre qué se espera o desea aprender, unos objetivos de aprendizaje ligados a las responsabilidades y compromisos que adquiere el estudiante, ejemplos de materiales, recursos o actividades realizadas a lo largo de todo el proceso de aprendizaje, además de comentarios de autoevaluación o reflexión sobre estos ejemplos seleccionados.
-+ Al final del documento, y como recomienda este pedagogo, es recomendable que los dosieres de aprendizaje se cierren con un apartado sobre objetivos futuros respecto a lo aprendido. 
-+ -¿Qué he trabajado? 
+El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
 
--¿Lo he hecho en solitario o en compañía? 
-
--¿Esto me ha ayudado o me ha dificultado?
-
-Diferenciando si ha sido en grupo:
-
-    ¿Cómo hemos distribuido el trabajo? 
-    ¿Ha sido un reparto de tareas o hemos trabajado codo con codo? 
-    ¿Qué rol ha tenido cada miembro? 
-    ¿Qué pasos hemos seguido? 
-    ¿Qué aportaciones individuales ha habido? 
-    ¿Cómo hemos sacado conclusiones?
-    ¿Qué he aportado al grupo? ¿Qué me han aportado los demás? 
-
-Y poniendo especial atención al futuro del propio alumnado: 
-
-    ¿Qué creo haber aprendido? 
-    ¿Qué errores he cometido? ¿De cuáles he aprendido? 
-    ¿Sobre qué quiero seguir aprendiendo? ¿Qué creo que muestra mi portfolios?
+- Capacidad de análisis y síntesis.
+- Capacidad para el uso adecuado de las tecnologías de la información y comunicación.
+- Capacidad de expresión escrita.
+- Capacidad de interpretar la estructura y dinámica de poblaciones, comunidades y ecosistemas.
+- Ser capaz de identificar las distintas variables que influyen en la estructura y funcionamiento de los ecosistemas.
+- Capacidad de entender las cuestiones de escala que afectan al espacio y al tiempo en la descripción de procesos ecológicos.
+- Constatar que las teorías ecológicas son marcos conceptuales que nos sirven de guía para entender el mundo.
+- Ser capaz de establecer paralelismos entre teorías ecológicas y aspectos aplicados de las mismas.
 
 
 
+Para cada una de estas competencias he preparado una serie de preguntas que pueden clasificarse en dos tipos:
+
++ Preguntas específicas y propias de cada competencia.
++ Preguntas generales. Hay tres preguntas generales comunes a todas las competencias:
+  + Asignar a una serie de actos docentes (Tema A, práctica X, etc.) un nivel determinado de impacto en la adquisición de cada competencia por parte de cada estudiante. Por ejemplo, para la competencia **2** ha sido especialmente útil la actividad docente A y la B. Algo menos útil la X.
+  + Enumerar y describir los documentos o materiales de estudio que más crees que te han ayudado a adquirir la competencia descrita.
+  + Enumerar las dificultades que has tenido a la hora de adquirir la competencia en cuestión.
 
 
 
-
-  
+Todo lo anterior está reflejado en este formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página aquí).
 
 
 
