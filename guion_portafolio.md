@@ -56,9 +56,18 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 
 
 
-Todo lo anterior está reflejado en este formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página aquí).
+Todo lo anterior está reflejado en **[este](https://forms.gle/dUY46AxjiCy86Siq9)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página [aquí](https://aprendiendo-cosas.github.io/T_portafolio_ecologia_ccaa/presentacion/portafolio.html)). Si lo rellenas y te equivocas al enviarlo, vuelve a hacerlo y yo miraré solo el último.
 
 
 
+<iframe
+  src="https://aprendiendo-cosas.github.io/T_portafolio_ecologia_ccaa/presentacion/portafolio.html"
+  style="width:100%; height:450px;"
+></iframe>
 
 
+Una vez que hayas completado el portafolio tienes que pensar cómo describirlo a tus compañeros oralmente. Cada uno de vosotros dedicará 5' como máximo a reflexionar en común cómo ha sido su proceso de aprendizaje de la ecología. Para hacer esta reflexión oral puedes hacer una presentación sencilla o simplemente imprimir lo que has puesto en el formulario. Yo proyectaré en la pantalla las respuestas que cada uno ha dado y eso puede servirte de guía. Haremos esto durante la última sesión práctica, el día 21 de mayo.
+
+
+
+Esta actividad, como todas, es voluntaria. Los estudiante que participen con un mínimo de seriedad tendrán directamente 0,5 puntos extra en la nota de la asignatura. 
