@@ -82,6 +82,40 @@ A fecha de redacción de este documento (21/05/2021 21:08) hay 20 alumnos que ha
 
 Esta es la competencia en la que los alumnos parecen mostrar más consenso (aunque no se ha realizado un estudio estadístico, sino una mera evaluación visual de las gráficas). La percepción generalizada es que, tras cursar la asignatura, han mejorado en esta competencia. El 95% de los que han respondido refieren cambios medios o altos en su capacidad de síntesis y análisis. Además, todos ellos indican que han mejorado su capacidad de identificar información relevante a la hora de hacer un trabajo. Esto último ha sido repetido en varias ocasiones durante las exposicioens orales. El 80% de los que han contestado indican que ha aumentado su capacidad de resumir la información analizada. Por último, el 90% dicen haber mejorado considerablemente su capacidad de fundamentar sus conclusiones en evidencias científicas. La siguiente imagen muestra de manera gráfica lo anterior. 
 
+![1](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/imagenes/1_capacidad_analisis.png)
+
+
+
+### Competencia 2: *Capacidad para el uso adecuado de las tecnologías de la información y la comunicación*
+
+En esta competencia hay menos consenso, ya que algunos alumnos consideran que no han perdido el miedo a los ordenadores o que sus habilidades con estas herramientas no han mejorado significativamente. Concretamente, un 25% de los alumnos que han respondido indican que sus habilidades han cambiado poco o nada durante la asignatura. Otro 25% considera que su confianza en el uso de los ordenadores no ha cambiado mucho. Sin embargo, el 75% cree que se esforzará para adquirir formación en esta competencia en el futuro. Durante el debate posterior a la exposición de los portafolios, los alumnos opinan en repetidas ocasiones que sería necesario contar con una asignatura de informática olbigatoria en el grado (y en periodos docentes anteriores). La siguiente figura muestra de manera gráfica lo anterior.
+
+<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/imagenes/2_uso_tecnologia.png" alt="2" style="zoom:57%;" />
+
+### Competencia 3: *Capacidad de expresión escrita*
+
+En esta competencia hay cierto consenso en cuanto al impacto general de la asignatura. El 85% de los que han respondido creen que la asigntura ha entrenado su capacidad de expresión escrita. Sin embargo, el 40% usa con poca frecuencia la técnica de estructurar el mensaje que quiere expresar antes de escribirlo. Además, el 25% no ha notado que sus textos estén mejor estructurados después de cursar la asignatura de ecología. La siguiente figura muestra lo anterior. 
+
+
+
+<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/imagenes/3_expresion_escrita.png" alt="3" style="zoom:57%;" />
+
+
+
+### Competencia 4: *Capacidad de interpretar la estructura y dinámica de las poblaciones, comunidades y ecosistemas*
+
+Comenzamos con las competencias puramente ecológicas. En esta primera, los alumnos refieren mayoritariamente una mejora sustancial en su capacidad de comprender los elementos jerárquicos que usamos para explicar el funcionamiento de la vida en la Tierra. Sin embargo, un porcentaje apreciable (35%) muestra poca confianza en su capacidad de expresar aquí y ahora los principales descriptores de poblaciones, comunidades y ecosistemas. 
+
+
+
+<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/imagenes/4_jerarquias_ecologia.png" alt="4" style="zoom:57%;" />
+
+
+
+### Competencia 5: 
+
+
+
 
 
 
