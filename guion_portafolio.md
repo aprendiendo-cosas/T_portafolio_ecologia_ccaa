@@ -71,3 +71,18 @@ Una vez que hayas completado el portafolio tienes que pensar cómo describirlo a
 
 
 Esta actividad, como todas, es voluntaria. Los estudiante que participen con un mínimo de seriedad tendrán directamente 0,5 puntos extra en la nota de la asignatura. 
+
+
+
+## Resultados
+
+A fecha de redacción de este documento (21/05/2021 21:08) hay 20 alumnos que han completado el formulario. Los resultados obtenidos en las distintas competencias se muestran a continuación.
+
+### Competencia 1: *Capacidad de análisis y síntesis*
+
+Esta es la competencia en la que los alumnos parecen mostrar más consenso (aunque no se ha realizado un estudio estadístico, sino una mera evaluación visual de las gráficas). La percepción generalizada es que, tras cursar la asignatura, han mejorado en esta competencia. El 95% de los que han respondido refieren cambios medios o altos en su capacidad de síntesis y análisis. Además, todos ellos indican que han mejorado su capacidad de identificar información relevante a la hora de hacer un trabajo. Esto último ha sido repetido en varias ocasiones durante las exposicioens orales. El 80% de los que han contestado indican que ha aumentado su capacidad de resumir la información analizada. Por último, el 90% dicen haber mejorado considerablemente su capacidad de fundamentar sus conclusiones en evidencias científicas. La siguiente imagen muestra de manera gráfica lo anterior. 
+
+
+
+
+
