@@ -1,11 +1,11 @@
 # Instrucciones para la realización del ejercicio denominado "Portafolio personal de aprendizaje"
 
-> + **_Versión_**: 0.1.
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + ***Duración estimada***: 1 hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2020-2021/imagenes/portada.png?token=ACTPWF7PO2EFZAWVRNJ2GFTAU26Z6)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/imagenes/portada.png?token=ACTPWF7PO2EFZAWVRNJ2GFTAU26Z6)
 
 
 
@@ -25,7 +25,7 @@ De manera más específica, un portafolio permite:
 + Promover la capacidad de resolución de problemas.
 + Proveer a los profesores de información para ajustar los contenidos del curso a las necesidades de los estudiantes.
 
-Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2020-2021/biblio) carpeta. 
+Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/main/biblio) carpeta. 
 
 
 
@@ -33,7 +33,7 @@ Si te interesa el tema de los portafolios, puedes leer algunos artículos en [es
 
 Para completar satisfactoriamente esta tarea sin que suponga mucho tiempo, he preparado una especie de plantilla para que todos los portafolios tengan la misma estructura. Cada estudiante debe de rellenar dicha plantilla que está implementada en un formulario de google docs. 
 
-El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
+El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
 
 - Capacidad de análisis y síntesis.
 - Capacidad para el uso adecuado de las tecnologías de la información y comunicación.
@@ -49,96 +49,24 @@ El portafolio está organizado según las competencias docentes de la asignatura
 Para cada una de estas competencias he preparado una serie de preguntas que pueden clasificarse en dos tipos:
 
 + Preguntas específicas y propias de cada competencia.
-+ Preguntas generales. Hay tres preguntas generales comunes a todas las competencias:
-  + Asignar a una serie de actos docentes (Tema A, práctica X, etc.) un nivel determinado de impacto en la adquisición de cada competencia por parte de cada estudiante. Por ejemplo, para la competencia **2** ha sido especialmente útil la actividad docente A y la B. Algo menos útil la X.
++ Preguntas generales. Hay tres preguntas generales comunes a todas las competencias. Cada pregunta aborda los siguientes conceptos:
+  + Asignar a una serie de actos docentes (Tema A, práctica X, etc.) un nivel determinado de impacto en la adquisición de cada competencia por parte de cada estudiante. Por ejemplo, para la competencia 2 ha sido especialmente útil la actividad docente A y la B. Algo menos útil la X.
   + Enumerar y describir los documentos o materiales de estudio que más crees que te han ayudado a adquirir la competencia descrita.
   + Enumerar las dificultades que has tenido a la hora de adquirir la competencia en cuestión.
 
 
 
-Todo lo anterior está reflejado en **[este](https://forms.gle/dUY46AxjiCy86Siq9)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página [aquí](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2020-2021/presentacion/portafolio.html)). Si lo rellenas y te equivocas al enviarlo, vuelve a hacerlo y yo miraré solo el último.
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página [aquí](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/presentacion/portafolio.html)). Si lo rellenas y te equivocas al enviarlo, vuelve a hacerlo y yo miraré solo el último.
 
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2020-2021/presentacion/portafolio.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/presentacion/portafolio.html"
   style="width:100%; height:450px;"
 ></iframe>
 
-
-Una vez que hayas completado el portafolio tienes que pensar cómo describirlo a tus compañeros oralmente. Cada uno de vosotros dedicará 5' como máximo a reflexionar en común cómo ha sido su proceso de aprendizaje de la ecología. Para hacer esta reflexión oral puedes hacer una presentación sencilla o simplemente imprimir lo que has puesto en el formulario. Yo proyectaré en la pantalla las respuestas que cada uno ha dado y eso puede servirte de guía. Haremos esto durante la última sesión práctica, el día 21 de mayo.
-
-
-
-Esta actividad, como todas, es voluntaria. Los estudiante que participen con un mínimo de seriedad tendrán directamente 0,5 puntos extra en la nota de la asignatura. 
 
 
 
 ## Resultados
 
-A fecha de redacción de este documento (21/05/2021 21:08) hay 20 alumnos que han completado el formulario. Los resultados obtenidos en las distintas competencias se muestran a continuación.
-
-### Competencia 1: *Capacidad de análisis y síntesis*
-
-Esta es la competencia en la que los alumnos parecen mostrar más consenso (aunque no se ha realizado un estudio estadístico, sino una mera evaluación visual de las gráficas). La percepción generalizada es que, tras cursar la asignatura, han mejorado en esta competencia. El 95% de los que han respondido refieren cambios medios o altos en su capacidad de síntesis y análisis. Además, todos ellos indican que han mejorado su capacidad de identificar información relevante a la hora de hacer un trabajo. Esto último ha sido repetido en varias ocasiones durante las exposicioens orales. El 80% de los que han contestado indican que ha aumentado su capacidad de resumir la información analizada. Por último, el 90% dicen haber mejorado considerablemente su capacidad de fundamentar sus conclusiones en evidencias científicas. La siguiente imagen muestra de manera gráfica lo anterior. 
-
-![1](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/1_capacidad_analisis.png)
-
-
-
-### Competencia 2: *Capacidad para el uso adecuado de las tecnologías de la información y la comunicación*
-
-En esta competencia hay menos consenso, ya que algunos alumnos consideran que no han perdido el miedo a los ordenadores o que sus habilidades con estas herramientas no han mejorado significativamente. Concretamente, un 25% de los alumnos que han respondido indican que sus habilidades han cambiado poco o nada durante la asignatura. Otro 25% considera que su confianza en el uso de los ordenadores no ha cambiado mucho. Sin embargo, el 75% cree que se esforzará para adquirir formación en esta competencia en el futuro. Durante el debate posterior a la exposición de los portafolios, los alumnos opinan en repetidas ocasiones que sería necesario contar con una asignatura de informática olbigatoria en el grado (y en periodos docentes anteriores). La siguiente figura muestra de manera gráfica lo anterior.
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/2_uso_tecnologia.png" alt="2" style="zoom:57%;" />
-
-### Competencia 3: *Capacidad de expresión escrita*
-
-En esta competencia hay cierto consenso en cuanto al impacto general de la asignatura. El 85% de los que han respondido creen que la asigntura ha entrenado su capacidad de expresión escrita. Sin embargo, el 40% usa con poca frecuencia la técnica de estructurar el mensaje que quiere expresar antes de escribirlo. Además, el 25% no ha notado que sus textos estén mejor estructurados después de cursar la asignatura de ecología. La siguiente figura muestra lo anterior. 
-
-
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/3_expresion_escrita.png" alt="3" style="zoom:57%;" />
-
-
-
-### Competencia 4: *Capacidad de interpretar la estructura y dinámica de las poblaciones, comunidades y ecosistemas*
-
-Comenzamos con las competencias puramente ecológicas. En esta primera, los alumnos refieren mayoritariamente una mejora sustancial en su capacidad de comprender los elementos jerárquicos que usamos para explicar el funcionamiento de la vida en la Tierra. Sin embargo, un porcentaje apreciable (35%) muestra poca confianza en su capacidad de expresar aquí y ahora los principales descriptores de poblaciones, comunidades y ecosistemas. 
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/4_jerarquias_ecologia.png" alt="4" style="zoom:57%;" />
-
-### Competencia 5: *Ser capaz de identificar las distintas variables que influyen en la estructura y funcionamiento de los ecosistemas.*
-
-Todos los alumnos que han respondido esta pregunta se ven capaces de interpretar el mundo a la luz de la ecología después de cursar la asignatura. Es algo que, además, repitieron en varias ocasiones durante las exposiciones y el posterior debate. Sin embargo, no todos se ven capaces de interpretar el paisaje mostrado en una foto usando las "gafas de la ecología".
-
-
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/5_variables.png" alt="5" style="zoom:57%;" />
-
-
-
-### Competencia 6: *Capacidad de entender las cuestiones de escala que afectan al espacio y al tiempo en la descripción de procesos ecológicos*
-
-Esta competencia tan importante ha sido captada, según mi interpretación, de manera parcial. El 75% de los alumnos consideran que su paso por la asignatura ha modificado poco su capacidad de entender las cuestiones de escala. La mayoría, sin embargo, sí dicen entender el concepto de propiedad emergente que surge al "escalar hacia arriba" la actividad de multitud de organismos. Se trata de una competencia compleja de cultivar a lo largo de un cuatrimestre, ya que se adquiere con el tiempo y la experiencia (aunque esto puede ser una justificación que autoinvento yo como profesor que no lo ha hecho bien...)
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/6_escalas.png" alt="6" style="zoom:57%;" />
-
-
-### Competencia 7: *Constatación de que las teorías ecológicas son marcos conceptuales que nos sirven de guía para entender el mundo, pero no son el mundo...*
-
-El histograma de frecuencias de las respuestas a esta pregunta es complejo de interpretar. Un 60% de los estudiantes parece comprender el [haiku](https://es.wikipedia.org/wiki/Haiku) de Wagensberg que utilicé para ilustrar la competencia. Pero puede que dicho haiku sea en sí difícil de comprender, así que no estoy seguro de en qué medida han adquirido la competencia en cuestión.
-
-
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/7_teorias_constructos.png" alt="6" style="zoom:57%;" />
-
-### Competencia 8: *Ser capaz de establecer paralelismos entre teorías ecológicas y aspectos aplicados de las mismas*
-
-
-
-Para evaluar en qué medida los estudiantes han aquirido la competencia en cuestión, se les lanza una pregunta en la que tienen que ponerla en práctica. Ante el concepto de "caza", el 45% de los estudiantes que responden lo hacen atribuyéndole la teoría ecológica de la "competencia intraespecífica". Es una respuesta válida aunque yo habría dicho "depredación".  Así que quizás esta pregunta no está bien formulada. 
-
-
-
-<img src="https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2020-2021/imagenes/8_teoria_vs_aplicacion.png" alt="6" style="zoom:57%;" />
