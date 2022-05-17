@@ -56,14 +56,7 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 
 
 
-Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que leas con detalle el esquema del portafolio que puedes ver a continuación (o descargar aquí o ver en otra página [aquí](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/presentacion/portafolio.html)). Si lo rellenas y te equivocas al enviarlo, vuelve a hacerlo y yo miraré solo el último.
-
-
-
-<iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/presentacion/portafolio.html"
-  style="width:100%; height:450px;"
-></iframe>
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. 
 
 
 
