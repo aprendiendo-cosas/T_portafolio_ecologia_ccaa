@@ -5,7 +5,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + ***Duración estimada***: 1 hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2021-2022/imagenes/portada.png)
 
 
 
@@ -25,7 +25,7 @@ De manera más específica, un portafolio permite:
 + Promover la capacidad de resolución de problemas.
 + Proveer a los profesores de información para ajustar los contenidos del curso a las necesidades de los estudiantes.
 
-Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/main/biblio) carpeta. 
+Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2021-2022/biblio) carpeta. 
 
 
 
