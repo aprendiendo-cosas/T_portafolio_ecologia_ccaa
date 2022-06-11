@@ -5,7 +5,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + ***Duración estimada***: 1 hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/imagenes/portada.png?token=ACTPWF7PO2EFZAWVRNJ2GFTAU26Z6)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/main/imagenes/portada.png)
 
 
 
@@ -33,7 +33,7 @@ Si te interesa el tema de los portafolios, puedes leer algunos artículos en [es
 
 Para completar satisfactoriamente esta tarea sin que suponga mucho tiempo, he preparado una especie de plantilla para que todos los portafolios tengan la misma estructura. Cada estudiante debe de rellenar dicha plantilla que está implementada en un formulario de google docs. 
 
-El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/main/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
+El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2021-2022/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
 
 - Capacidad de análisis y síntesis.
 - Capacidad para el uso adecuado de las tecnologías de la información y comunicación.
@@ -56,10 +56,14 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 
 
 
-Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. 
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. 
 
 
 
 
 ## Resultados
+
+Los resultados del portafolio realizado por los estudiantes se pueden ver en [esta](https://docs.google.com/forms/d/1wvExKE5dFkbRRtAfc8oDpGQO39Hh6GWN7X4WOyjZVXA/viewanalytics) página
+
+
 
