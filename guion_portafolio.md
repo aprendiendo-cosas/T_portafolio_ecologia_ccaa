@@ -1,9 +1,9 @@
 # Instrucciones para la realización del ejercicio denominado "Portafolio personal de aprendizaje"
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + ***Duración estimada***: 1 hora.
+> + ***Duración estimada***: Un ratito cada día...
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2021-2022/imagenes/portada.png)
 
@@ -31,9 +31,23 @@ Si te interesa el tema de los portafolios, puedes leer algunos artículos en [es
 
 ## Instrucciones
 
+El portafolio propuesto tiene dos apartados claramente diferentes. Cada uno de ellos refleja una forma distinta de concebir la recopilación de evidencias de aprendizaje:
+
+### Recopilación de evidencias de aprendizaje
+Se trata de que el estudiante identifica claramente materiales, actividades o procesos que han promovido su aprendizaje. Este trabajo se deberá ir realizando a lo largo del curso. Lo ideal sería que después de cada tema se recopilaran evidencias de aprendizaje. Dichas evidencias se organizan en torno a los 5 niveles de estudio que usamos en la asignatura: poblaciones, metapoblaciones, comunidades, ecosistemas y biosfera. Cada evidencia de aprendizaje debe de ser descrita atendiendo a los siguientes criterios:
++ **Nombre de la evidencia:** Puede ser un proceso, un documento, una pregunta de clase, etc. Por ejemplo "el guión sobre las metapoblaciones" es un objeto catalogable como evidencia. Otro ejemplo: "Estudio en grupo para entender la distribución espacial de la diversidad biológica"
++ **Enlace a la evidencia o extracto de la misma que motivó el aprendizaje**. Se puede poner el enlace a la web, o un pantallazo del texto que más destaca para promover el aprendizaje. 	
++ **Reflexión sobre el aprendizaje realizado.** Breve texto comentando cómo y por qué se produjo el aprendizaje. Por ejemplo: "Leer el texto mencionado me ha ayudado a entender mejor cómo los conceptos que estudiamos cambian su definición en función de la escala espacial".
+
+Todo lo anterior se recopilará en una página web hecha con Google Sites. El siguiente vídeo muestra cómo procederemos para construir dicha página web. 
+
+
+
+### Relación del aprendizaje adquirido con las competencias establecidas en la guía docente
+
 Para completar satisfactoriamente esta tarea sin que suponga mucho tiempo, he preparado una especie de plantilla para que todos los portafolios tengan la misma estructura. Cada estudiante debe de rellenar dicha plantilla que está implementada en un formulario de google docs. 
 
-El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2021-2022/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
+El portafolio está organizado según las competencias docentes de la asignatura (que están plasmadas en la [guía docente](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/raw/2022-2023/biblio/guia_docente.pdf)). En concreto reflexionaremos sobre las siguientes 8 competencias:
 
 - Capacidad de análisis y síntesis.
 - Capacidad para el uso adecuado de las tecnologías de la información y comunicación.
@@ -56,14 +70,4 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 
 
 
-Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. 
-
-
-
-
-## Resultados
-
-Los resultados del portafolio realizado por los estudiantes se pueden ver en [esta](https://docs.google.com/forms/d/1wvExKE5dFkbRRtAfc8oDpGQO39Hh6GWN7X4WOyjZVXA/viewanalytics) página
-
-
-
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. **Importante**: este formulario tiene que rellenarse al final de la asignatura ya que se refiere a competencias que veremos durante todo el cuatrimestre.
