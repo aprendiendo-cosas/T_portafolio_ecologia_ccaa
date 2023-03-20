@@ -39,7 +39,23 @@ Se trata de que el estudiante identifica claramente materiales, actividades o pr
 + **Enlace a la evidencia o extracto de la misma que motivó el aprendizaje**. Se puede poner el enlace a la web, o un pantallazo del texto que más destaca para promover el aprendizaje. 	
 + **Reflexión sobre el aprendizaje realizado.** Breve texto comentando cómo y por qué se produjo el aprendizaje. Por ejemplo: "Leer el texto mencionado me ha ayudado a entender mejor cómo los conceptos que estudiamos cambian su definición en función de la escala espacial".
 
-Todo lo anterior se recopilará en una página web hecha con Google Sites. El siguiente vídeo muestra cómo procederemos para construir dicha página web. 
+Todo lo anterior se recopilará en una página web hecha con Google Sites. En el siguiente vídeo puedes ver la estructura de la página web a construir. 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksVdXBj07Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+Y tanto en este otro vídeo como a continuación se describen las instrucciones para crear la página:
+
+ **(1) Acceder a la web "plantilla"**: He creado [esta](https://sites.google.com/d/1PGlG1coNPnL1wKi66JfbQIV5TQcdZVOt/p/1i2ESCpyIO5wiQfDrVk_TNLBv81c9JBQQ/edit) web como una especie de plantilla. La idea es que la dupliques asociada a tu cuenta de gmail. Haz click en el enlace anterior. Se abrirá una página en la que se te pide entrar en una cuenta de google.
+
+**(2) Introduce los datos de tu cuenta de gmail**: La plataforma en la que está la web que usaremos de plantilla se llama "Google sites". Para acceder a la plantilla en modo edición hay que entrar con una cuenta de google. Cuando ingreses tus datos aparecerá la página principal de la plantilla. Verás este título en la página "**Experiencia de aprendizaje de [Pon tu nombre aquí]**"
+
+**(3) Hacer una copia de la plantilla en tu cuenta**: Arriba a la derecha verás tres puntos verticales. Haz click en ese menú y selecciona la opción "Hacer una copia". Esto clonará la plantilla en tu cuenta de Google.  El ordenador te pedirá un nombre para la página nueva. Llámale algo así "portafolio_[tunombre]".
+
+
 
 
 
@@ -70,4 +86,4 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 
 
 
-Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeY5z6JdS0-G1eWF7owh5uxljezEE9B9hak9zbXMxccmdSIeg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. **Importante**: este formulario tiene que rellenarse al final de la asignatura ya que se refiere a competencias que veremos durante todo el cuatrimestre.
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeGhmEOQY78cAuwGxsFeGHnFtqJnmeuvT8xfd1t1DUEj1jpqg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. **Importante**: este formulario tiene que rellenarse al final de la asignatura ya que se refiere a competencias que veremos durante todo el cuatrimestre.
