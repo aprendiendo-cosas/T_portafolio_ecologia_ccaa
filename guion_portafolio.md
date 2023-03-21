@@ -34,10 +34,7 @@ Si te interesa el tema de los portafolios, puedes leer algunos artículos en [es
 El portafolio propuesto tiene dos apartados claramente diferentes. Cada uno de ellos refleja una forma distinta de concebir la recopilación de evidencias de aprendizaje:
 
 ### Recopilación de evidencias de aprendizaje
-Se trata de que el estudiante identifica claramente materiales, actividades o procesos que han promovido su aprendizaje. Este trabajo se deberá ir realizando a lo largo del curso. Lo ideal sería que después de cada tema se recopilaran evidencias de aprendizaje. Dichas evidencias se organizan en torno a los 5 niveles de estudio que usamos en la asignatura: poblaciones, metapoblaciones, comunidades, ecosistemas y biosfera. Cada evidencia de aprendizaje debe de ser descrita atendiendo a los siguientes criterios:
-+ **Nombre de la evidencia:** Puede ser un proceso, un documento, una pregunta de clase, etc. Por ejemplo "el guión sobre las metapoblaciones" es un objeto catalogable como evidencia. Otro ejemplo: "Estudio en grupo para entender la distribución espacial de la diversidad biológica"
-+ **Enlace a la evidencia o extracto de la misma que motivó el aprendizaje**. Se puede poner el enlace a la web, o un pantallazo del texto que más destaca para promover el aprendizaje. 	
-+ **Reflexión sobre el aprendizaje realizado.** Breve texto comentando cómo y por qué se produjo el aprendizaje. Por ejemplo: "Leer el texto mencionado me ha ayudado a entender mejor cómo los conceptos que estudiamos cambian su definición en función de la escala espacial".
+Se trata de que el estudiante identifica claramente materiales, actividades o procesos que han promovido su aprendizaje. Este trabajo se deberá ir realizando a lo largo del curso. Lo ideal sería que después de cada tema se recopilaran evidencias de aprendizaje. Dichas evidencias se organizan en torno a los 5 niveles de estudio que usamos en la asignatura: poblaciones, metapoblaciones, comunidades, ecosistemas y biosfera. 
 
 Todo lo anterior se recopilará en una página web hecha con Google Sites. En el siguiente vídeo puedes ver la estructura de la página web a construir. 
 
@@ -49,11 +46,53 @@ Todo lo anterior se recopilará en una página web hecha con Google Sites. En el
 
 Y tanto en este otro vídeo como a continuación se describen las instrucciones para crear la página:
 
- **(1) Acceder a la web "plantilla"**: He creado [esta](https://sites.google.com/d/1PGlG1coNPnL1wKi66JfbQIV5TQcdZVOt/p/1i2ESCpyIO5wiQfDrVk_TNLBv81c9JBQQ/edit) web como una especie de plantilla. La idea es que la dupliques asociada a tu cuenta de gmail. Haz click en el enlace anterior. Se abrirá una página en la que se te pide entrar en una cuenta de google.
 
-**(2) Introduce los datos de tu cuenta de gmail**: La plataforma en la que está la web que usaremos de plantilla se llama "Google sites". Para acceder a la plantilla en modo edición hay que entrar con una cuenta de google. Cuando ingreses tus datos aparecerá la página principal de la plantilla. Verás este título en la página "**Experiencia de aprendizaje de [Pon tu nombre aquí]**"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yCXRNl51RSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+ **(1) Acceder a la web "plantilla"**: He creado [esta](https://sites.google.com/d/1PGlG1coNPnL1wKi66JfbQIV5TQcdZVOt/p/1I6v90lf59S3whzZB5_Nv-1XRmnoZi1fv/edit) web como una especie de plantilla. La idea es que la dupliques asociada a tu cuenta de gmail. Haz click en el enlace anterior. Se abrirá una página en la que se te pide entrar en una cuenta de google.
+
+**(2) Introduce los datos de tu cuenta de Google**: La plataforma en la que está la web que usaremos de plantilla se llama "Google sites". Para acceder a la plantilla en modo edición hay que entrar con una cuenta de google. Cuando ingreses tus datos aparecerá la página principal de la plantilla. Verás este título en la página "**Experiencia de aprendizaje de [Pon tu nombre aquí]**"
 
 **(3) Hacer una copia de la plantilla en tu cuenta**: Arriba a la derecha verás tres puntos verticales. Haz click en ese menú y selecciona la opción "Hacer una copia". Esto clonará la plantilla en tu cuenta de Google.  El ordenador te pedirá un nombre para la página nueva. Llámale algo así "portafolio_[tunombre]".
+
+
+
+hayu que poner aquí que tiene nque cerrar la plantilla, luego ir a google sites, abrir la página que acaban de crear, cambiarle el nombre y compartirla conmigo.
+
+y también tienen que guardar la dirección de edición para próximas ediciones
+
+y al final publicar
+
+**(4) A partir de aquí podrás modificar tu propia página**: En primer lugar, cámbiale el nombre. Arriba a la iquierda verás "portafolio_fjbonet". Borra mi nombre y pon el tuyo. Ahora veremos cómo modificar el contenido de las distintas páginas que conforman el portafolio.
+
+**(5) Comparte tu web conmigo**: Iré viendo cómo evoluciona tu portafolio. Y te daré sugerencias sobre cómo mejorarlo. Para ello necesito que compartas la web conmigo. Hazlo de la siguiente forma:
+
+- En la parte de arriba hay un icono con un humano y un símbolo + a la derecha. Haz click ahí.
+- Se abre una ventana en la que hay un cajón para añadir personas y grupos. Teclea ahí mi dirección: fjbonet@go.ugr.es y dale al botón que dice "hecho". 
+
+**(6) Página principal**: La edición de páginas es muy fácil. Solo tienes que hacer click en los objetos que ya hay para ver las opciones disponibles. A veces puedes cambiar los colores (aparece una paleta de pintor), o borrarlos, o editarlos. Para esto último basta con hacer doble click en el texto. Cada edición se guarda automáticamente. En esta página tendrás que cambiar lo siguiente:
+
+- Pon tu nombre en el título.
+- Reemplaza el texto existente por una breve descripción de las razones por las que crees que es importante aprender ecología.
+- Describe brevemente tus principales logros. Aquellos de los que te sientes más orgulloso/a. Haz esto hacia el final de la asignatura.
+- Describe también los errores que crees que te han ayudado más aprender. Esto también es mejor hacerlo al final del curso. 
+
+**(7) Páginas sobre niveles jerárquicos**: Verás que hay una página para cada uno de los cinco niveles jerárquicos que hemos usado en la asignatura: población, metapoblación, comunidad, ecosistema y bioma. Todas estas páginas tienen la misma estructura. En ellas se describen las evidencias de aprendizaje que has seleccionado. Cuantas más pongas más consciente serás del apredizaje adquirido y por tanto aprenderás más. Te sugiero que todas las evidencias tengan una estructura parecida:
+
++ **Nombre de la evidencia:** Puede ser un proceso, un documento, una pregunta de clase, etc. Por ejemplo "el guión sobre las metapoblaciones" es un objeto catalogable como evidencia. Otro ejemplo: "Estudio en grupo para entender la distribución espacial de la diversidad biológica"
++ **Enlace a la evidencia o extracto de la misma que motivó el aprendizaje**. Se puede poner el enlace a la web, o un pantallazo del texto que más destaca para promover el aprendizaje. 	
++ **Reflexión sobre el aprendizaje realizado.** Breve texto comentando cómo y por qué se produjo el aprendizaje. Por ejemplo: "Leer el texto mencionado me ha ayudado a entender mejor cómo los conceptos que estudiamos cambian su definición en función de la escala espacial".
+
+Para poner esto en la web tienes que añadir objetos. En la barra de la derecha hay varias opciones:
+
+- Bloques de contenido. Permite incorporar bloques concretos con una estructura particular. Por ejemplo, una imagen y un texto a la derecha.
+- Textos. Son fragmentos de texto, como su nombre indica.
+- Imágenes. Pues eso, imágenes.
+- Insertar. Esto te permite incrustar contenido html, como vídeos. 
+- También puedes añadir otros objetos: botones, divisores, espacios, etc.
 
 
 
