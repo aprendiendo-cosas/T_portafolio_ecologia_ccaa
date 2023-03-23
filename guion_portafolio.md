@@ -58,7 +58,7 @@ Y tanto en este otro vídeo como a continuación se describen las instrucciones 
 
 **(3) Hacer una copia de la plantilla en tu cuenta**: Arriba a la derecha verás tres puntos verticales. Haz click en ese menú y selecciona la opción "Hacer una copia". Esto clonará la plantilla en tu cuenta de Google.  El ordenador te pedirá un nombre para la página nueva. Llámale algo así "portafolio_[tunombre]".
 
-
+kjkjk
 
 hayu que poner aquí que tiene nque cerrar la plantilla, luego ir a google sites, abrir la página que acaban de crear, cambiarle el nombre y compartirla conmigo.
 
