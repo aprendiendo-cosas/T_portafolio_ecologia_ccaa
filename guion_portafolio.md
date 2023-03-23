@@ -5,7 +5,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + ***Duración estimada***: Un ratito cada día...
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2021-2022/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2022-2023/imagenes/portada.png)
 
 
 
@@ -25,7 +25,7 @@ De manera más específica, un portafolio permite:
 + Promover la capacidad de resolución de problemas.
 + Proveer a los profesores de información para ajustar los contenidos del curso a las necesidades de los estudiantes.
 
-Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2021-2022/biblio) carpeta. 
+Si te interesa el tema de los portafolios, puedes leer algunos artículos en [esta](https://github.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/tree/2022-2023/biblio) carpeta. 
 
 
 
@@ -58,29 +58,23 @@ Y tanto en este otro vídeo como a continuación se describen las instrucciones 
 
 **(3) Hacer una copia de la plantilla en tu cuenta**: Arriba a la derecha verás tres puntos verticales. Haz click en ese menú y selecciona la opción "Hacer una copia". Esto clonará la plantilla en tu cuenta de Google.  El ordenador te pedirá un nombre para la página nueva. Llámale algo así "portafolio_[tunombre]".
 
-kjkjk
+**(4) Cierra la plantilla (que está en mi cuenta) y abre tu página**: Cierra la pestaña en la que tienes la plantilla original y luego navega hasa esta dirección: https://sites.google.com/ Se abrirá una página con varios "sites". Abajo verás el que acabas de copiar y que debe de llamarse "portafolio_[tunombre]". Deberás de entrar a la web anterior cada vez que quieras editar la página y añadir nuevo contenido. 
 
-hayu que poner aquí que tiene nque cerrar la plantilla, luego ir a google sites, abrir la página que acaban de crear, cambiarle el nombre y compartirla conmigo.
+**(5) A partir de aquí podrás modificar tu propia página**: En primer lugar, cámbiale el nombre. Arriba a la iquierda verás "portafolio_fjbonet". Borra mi nombre y pon el tuyo. Ahora veremos cómo modificar el contenido de las distintas páginas que conforman el portafolio.
 
-y también tienen que guardar la dirección de edición para próximas ediciones
-
-y al final publicar
-
-**(4) A partir de aquí podrás modificar tu propia página**: En primer lugar, cámbiale el nombre. Arriba a la iquierda verás "portafolio_fjbonet". Borra mi nombre y pon el tuyo. Ahora veremos cómo modificar el contenido de las distintas páginas que conforman el portafolio.
-
-**(5) Comparte tu web conmigo**: Iré viendo cómo evoluciona tu portafolio. Y te daré sugerencias sobre cómo mejorarlo. Para ello necesito que compartas la web conmigo. Hazlo de la siguiente forma:
+**(6) Comparte tu web conmigo**: Iré viendo cómo evoluciona tu portafolio. Y te daré sugerencias sobre cómo mejorarlo. Para ello necesito que compartas la web conmigo. Hazlo de la siguiente forma:
 
 - En la parte de arriba hay un icono con un humano y un símbolo + a la derecha. Haz click ahí.
 - Se abre una ventana en la que hay un cajón para añadir personas y grupos. Teclea ahí mi dirección: fjbonet@go.ugr.es y dale al botón que dice "hecho". 
 
-**(6) Página principal**: La edición de páginas es muy fácil. Solo tienes que hacer click en los objetos que ya hay para ver las opciones disponibles. A veces puedes cambiar los colores (aparece una paleta de pintor), o borrarlos, o editarlos. Para esto último basta con hacer doble click en el texto. Cada edición se guarda automáticamente. En esta página tendrás que cambiar lo siguiente:
+**(7) Página principal**: La edición de páginas es muy fácil. Solo tienes que hacer click en los objetos que ya hay para ver las opciones disponibles. A veces puedes cambiar los colores (aparece una paleta de pintor), o borrarlos, o editarlos. Para esto último basta con hacer doble click en el texto. Cada edición se guarda automáticamente. En esta página tendrás que cambiar lo siguiente:
 
 - Pon tu nombre en el título.
 - Reemplaza el texto existente por una breve descripción de las razones por las que crees que es importante aprender ecología.
 - Describe brevemente tus principales logros. Aquellos de los que te sientes más orgulloso/a. Haz esto hacia el final de la asignatura.
 - Describe también los errores que crees que te han ayudado más aprender. Esto también es mejor hacerlo al final del curso. 
 
-**(7) Páginas sobre niveles jerárquicos**: Verás que hay una página para cada uno de los cinco niveles jerárquicos que hemos usado en la asignatura: población, metapoblación, comunidad, ecosistema y bioma. Todas estas páginas tienen la misma estructura. En ellas se describen las evidencias de aprendizaje que has seleccionado. Cuantas más pongas más consciente serás del apredizaje adquirido y por tanto aprenderás más. Te sugiero que todas las evidencias tengan una estructura parecida:
+**(8) Páginas sobre niveles jerárquicos**: Verás que hay una página para cada uno de los cinco niveles jerárquicos que hemos usado en la asignatura: población, metapoblación, comunidad, ecosistema y bioma. Todas estas páginas tienen la misma estructura. En ellas se describen las evidencias de aprendizaje que has seleccionado. Cuantas más pongas más consciente serás del apredizaje adquirido y por tanto aprenderás más. Te sugiero que todas las evidencias tengan una estructura parecida:
 
 + **Nombre de la evidencia:** Puede ser un proceso, un documento, una pregunta de clase, etc. Por ejemplo "el guión sobre las metapoblaciones" es un objeto catalogable como evidencia. Otro ejemplo: "Estudio en grupo para entender la distribución espacial de la diversidad biológica"
 + **Enlace a la evidencia o extracto de la misma que motivó el aprendizaje**. Se puede poner el enlace a la web, o un pantallazo del texto que más destaca para promover el aprendizaje. 	
@@ -99,6 +93,8 @@ Para poner esto en la web tienes que añadir objetos. En la barra de la derecha 
 
 
 ### Relación del aprendizaje adquirido con las competencias establecidas en la guía docente
+
+**IMPORTANTE: Esta sección de la rúbrica no se puede hacer hasta que hayamos terminado la asignatura. Espérate a que hayamos tenido la última sesión para completarla**
 
 Para completar satisfactoriamente esta tarea sin que suponga mucho tiempo, he preparado una especie de plantilla para que todos los portafolios tengan la misma estructura. Cada estudiante debe de rellenar dicha plantilla que está implementada en un formulario de google docs. 
 
@@ -120,9 +116,8 @@ Para cada una de estas competencias he preparado una serie de preguntas que pued
 + Preguntas específicas y propias de cada competencia.
 + Preguntas generales. Hay tres preguntas generales comunes a todas las competencias. Cada pregunta aborda los siguientes conceptos:
   + Asignar a una serie de actos docentes (Tema A, práctica X, etc.) un nivel determinado de impacto en la adquisición de cada competencia por parte de cada estudiante. Por ejemplo, para la competencia 2 ha sido especialmente útil la actividad docente A y la B. Algo menos útil la X.
-  + Enumerar y describir los documentos o materiales de estudio que más crees que te han ayudado a adquirir la competencia descrita.
   + Enumerar las dificultades que has tenido a la hora de adquirir la competencia en cuestión.
 
 
 
-Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeGhmEOQY78cAuwGxsFeGHnFtqJnmeuvT8xfd1t1DUEj1jpqg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. **Importante**: este formulario tiene que rellenarse al final de la asignatura ya que se refiere a competencias que veremos durante todo el cuatrimestre.
+Todo lo anterior está reflejado en **[este](https://docs.google.com/forms/d/e/1FAIpQLSeGhmEOQY78cAuwGxsFeGHnFtqJnmeuvT8xfd1t1DUEj1jpqg/viewform?usp=sf_link)** formulario que deberás de completar con detalle. Estimo que tardarás una hora más o menos en completarlo. Antes de ponerte a rellenarlo, te recomiendo que le eches un vistazo a su estructura. Puedes ir poniendo resultados en modo borrador y no darle al botón de enviar en la última pantalla. Si entras al formulario con tu cuenta de gmail se irán guardando los distintos borradores que hagas. Quizás esto te facilite el trabajo. **Repito**: este formulario tiene que rellenarse al final de la asignatura ya que se refiere a competencias que veremos durante todo el cuatrimestre.
